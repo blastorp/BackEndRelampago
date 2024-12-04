@@ -15,6 +15,9 @@ namespace RelampagoP.Data
         public DbSet<Dependencias> Dependencia { get; set; }
         public DbSet<Procedimiento> Procedimiento { get; set; }
         public DbSet<MacroProceso> Macroproceso { get; set; }
+        public DbSet<ProcedimientoVista> vw_ProcedimientoConNombres { get; set; }
+
+        
 
     }
 }

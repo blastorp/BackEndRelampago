@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RelampagoP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5474b15e0180f3aa6007cd3882caad6a83d08a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("RelampagoP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RelampagoP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

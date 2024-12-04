@@ -27,7 +27,7 @@ namespace RelampagoP.Controllers
         {
             try
             {
-                IEnumerable<Procedimiento> objProcList = _db.Procedimiento.FromSqlRaw<Procedimiento>("exec [sp_Procedimiento_CRUD] 'REad'");
+                IEnumerable<ProcedimientoVista> objProcList = _db.vw_ProcedimientoConNombres.FromSqlRaw<ProcedimientoVista>("SELECT * FROM vw_ProcedimientoConNombres;");
                 return objProcList.ToList();
 
             }

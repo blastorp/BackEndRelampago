@@ -85,3 +85,4 @@ C:\Users\JDEM_\source\repos\RelampagoP\RelampagoP\obj\Debug\net6.0\refint\Relamp
 C:\Users\JDEM_\source\repos\RelampagoP\RelampagoP\obj\Debug\net6.0\RelampagoP.pdb
 C:\Users\JDEM_\source\repos\RelampagoP\RelampagoP\obj\Debug\net6.0\RelampagoP.genruntimeconfig.cache
 C:\Users\JDEM_\source\repos\RelampagoP\RelampagoP\obj\Debug\net6.0\ref\RelampagoP.dll
+C:\Users\JDEM_\source\repos\RelampagoP\RelampagoP\obj\Debug\net6.0\RelampagoP.sourcelink.json

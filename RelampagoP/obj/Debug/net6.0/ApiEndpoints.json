@@ -1,5 +1,45 @@
 [
   {
+    "ContainingType": "RelampagoP.Controllers.AreaController",
+    "Method": "listarAreas",
+    "RelativePath": "Area/listarAreas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RelampagoP.Controllers.DependenciasController",
+    "Method": "listarDependencias",
+    "RelativePath": "Dependencias/listarDependencias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RelampagoP.Controllers.EjeController",
+    "Method": "listarEjes",
+    "RelativePath": "Eje/listarEjes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RelampagoP.Controllers.MacroProcesoController",
+    "Method": "listarMacroP",
+    "RelativePath": "MacroProceso/listarMacroP",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "RelampagoP.Controllers.ProcedimentoController",
     "Method": "listarProcedimientos",
     "RelativePath": "Procedimento/listarProcedimientos",
